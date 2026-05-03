@@ -34,7 +34,7 @@ Currently building in public — see my pinned repositories below.
 
 **[aws-eks-platform](https://github.com/Joshuche22/aws-eks-platform)** — Production-grade EKS platform with Terraform, multi-environment infrastructure, KMS encryption, IRSA, Prometheus and Grafana.
 
-**[gh-actions-demo](https://github.com/Joshuche22/gh-actions-demo)** — Senior-level CI/CD pipeline with GitHub Actions — Trivy security scanning, Terraform plan on PRs, ECS deployment and Slack alerts.
+**[gh-actions-demo](https://github.com/Joshuche22/gh-actions-demo)** — Production-grade CI/CD pipeline with GitHub Actions — Trivy security scanning, Terraform plan on PRs, ECS deployment and Slack alerts.
 
 ---
 
